@@ -10,7 +10,7 @@ package com.mycompany.test;
  */
 
 public class Voiture extends Vehicule{
-    public Voiture(String marque , String modele){
+    Voiture( marque , modele){
         this.marque = marque;
         this.modele = modele;
     }

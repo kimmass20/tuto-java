@@ -10,4 +10,8 @@ package com.mycompany.test;
  */
 public class Caminion extends Vehicule{
     
+    public Caminion(String marque) {
+        super(marque);
+    }
+    
 }
